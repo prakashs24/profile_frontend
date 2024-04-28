@@ -1,0 +1,93 @@
+.global-text{
+    letter-spacing: 4px;
+    font-weight: 900;
+    color: rgb(25, 113, 113);
+}
+.doat{
+    padding-top: 4px;
+    text-align: center;
+    color: rgb(25, 113, 113);
+    font-weight: 900;
+    font-size: 18px;
+}
+.text2t{
+    margin-left: 0%;
+    padding-left: 0%;
+    font-weight: 900;
+    color: rgb(25, 113, 113);
+}
+  .course-completed-details{
+  position: relative;
+  width: fit-content;
+  font-size: 16px;
+}
+.course-completed-details .course-completed-no{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -75%);
+  color: #ffffffec;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+.italian{
+ background-color:rgb(25, 181, 25);
+}
+.portugese{
+    background-color: #fb8517;
+}
+.india{
+    background-color: #ffc519;
+}
+.book-main{
+    background-color: rgba(155, 153, 153, 0.35);
+    width: 340px;
+}
+.book{
+    background-color: rgba(3, 207, 207, 0.359);
+}
+.headphone{
+    background-color: rgba(4, 133, 4, 0.731);
+}
+.volume{
+    background-color:rgba(234, 234, 107, 0.65);
+}
+.edit{
+    background-color: rgba(239, 160, 160, 0.686);
+}
+.dropdiv{
+    background-color: rgba(3, 207, 207, 0.359);
+}
+.chatcolorfead{
+    width: 14px;
+    background-color: rgba(3, 207, 207, 0.359);
+}
+.chatcolorfead1{
+    height: 175px;
+}
+.chatcolorfead2{
+    height: 150px;
+    margin-top: 26px;
+}
+.chatcolorfead3{
+    height: 132px;
+    margin-top: 43px;
+}
+.chatcolorfead4{
+    height: 200px;
+    margin-top: -24px;
+    width: 14px;
+}
+.chatcolorfead5{
+    height: 100px;
+    margin-top: 76px;
+}
+.chatcolorfead6{
+    height: 168px;
+    margin-top: 9px;
+}
+.chatcolorfead7{
+    height: 140px;
+    margin-top: 34px;
+}
